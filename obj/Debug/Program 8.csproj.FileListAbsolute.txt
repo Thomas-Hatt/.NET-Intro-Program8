@@ -1,0 +1,10 @@
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\bin\Debug\Program 8.exe.config
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\bin\Debug\Program 8.exe
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\bin\Debug\Program 8.pdb
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program 8.csproj.AssemblyReference.cache
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program_8.Properties.Resources.resources
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program 8.csproj.GenerateResource.cache
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program 8.csproj.CoreCompileInputs.cache
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program 8.exe
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program 8.pdb
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 8\Program 8\obj\Debug\Program_8.frmEmployee.resources
